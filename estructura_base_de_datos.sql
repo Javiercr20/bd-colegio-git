@@ -1,3 +1,6 @@
+-- Script SQL de estructura de base de datos para colegio
+
+
 -- Crear tabla de Padres
 CREATE TABLE Padres (
     id_padre INT PRIMARY KEY,
